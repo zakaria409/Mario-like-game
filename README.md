@@ -1,6 +1,6 @@
 # Mario-Like Game in C#
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Mario-like/Screenshot.png)
 
 ## Description
 
