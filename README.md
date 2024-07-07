@@ -4,15 +4,15 @@
 
 ## Description
 
-This project is a Mario-like game developed in C#. The player navigates through various levels, avoiding obstacles and enemies, to reach the end goal.
+This project is a Mario-like game developed in C#. The player navigates through that one level, avoiding obstacles and enemies, to reach the end goal.
 
 ## Features
 
 - **Platformer Gameplay:** Classic platforming mechanics with jumping, climbing, and moving platforms.
 - **Enemies and Obstacles:** Various enemies and obstacles to avoid.
-- **Animated Characters:** Animated sprites for the main character and enemies.
-- **Multiple Levels:** Different levels with unique designs and challenges.
-- **Smooth Controls:** Responsive controls for an enjoyable gaming experience.
+- **Animated Characters:** Only one main character and the enemies.
+- **Levels:** One level with unique designs and challenges.
+- **Smooth Controls:** Responsive controls for an enjoyable gaming experience with unristrected free jumps.
 
 ## Technical Details
 
