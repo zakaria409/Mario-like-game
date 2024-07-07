@@ -1,0 +1,20 @@
+C:\Users\zakria sameh22\source\repos\largG\bin\Debug\largG.exe.config
+C:\Users\zakria sameh22\source\repos\largG\bin\Debug\largG.exe
+C:\Users\zakria sameh22\source\repos\largG\bin\Debug\largG.pdb
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.csproj.AssemblyReference.cache
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.Form1.resources
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.Properties.Resources.resources
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.csproj.GenerateResource.cache
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.csproj.CoreCompileInputs.cache
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.exe
+C:\Users\zakria sameh22\source\repos\largG\obj\Debug\largG.pdb
+E:\source\repos\largG\bin\Debug\largG.exe.config
+E:\source\repos\largG\bin\Debug\largG.exe
+E:\source\repos\largG\bin\Debug\largG.pdb
+E:\source\repos\largG\obj\Debug\largG.csproj.AssemblyReference.cache
+E:\source\repos\largG\obj\Debug\largG.Form1.resources
+E:\source\repos\largG\obj\Debug\largG.Properties.Resources.resources
+E:\source\repos\largG\obj\Debug\largG.csproj.GenerateResource.cache
+E:\source\repos\largG\obj\Debug\largG.csproj.CoreCompileInputs.cache
+E:\source\repos\largG\obj\Debug\largG.exe
+E:\source\repos\largG\obj\Debug\largG.pdb
