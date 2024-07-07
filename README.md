@@ -32,7 +32,7 @@ This project is a Mario-like game developed in C#. The player navigates through 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/mario-like-game.git
+    git clone https://github.com/zakaria409/mario-like-game.git
     ```
 2. **Open the project in Visual Studio.**
 3. **Build the project.**
